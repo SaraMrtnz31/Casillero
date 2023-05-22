@@ -1,0 +1,16 @@
+C:\Users\trued\source\repos\Casillero\Prueba2\bin\Debug\Casillero.exe.config
+C:\Users\trued\source\repos\Casillero\Prueba2\bin\Debug\Casillero.exe
+C:\Users\trued\source\repos\Casillero\Prueba2\bin\Debug\Casillero.pdb
+C:\Users\trued\source\repos\Casillero\Prueba2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.csproj.AssemblyReference.cache
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Prueba2.Casillero.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Prueba2.frmCategorias.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Prueba2.frmEstantes.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Prueba2.frmPaquetes.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Prueba2.frmUsuarios.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.Properties.Resources.resources
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.csproj.GenerateResource.cache
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.csproj.CoreCompileInputs.cache
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.csproj.CopyComplete
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.exe
+C:\Users\trued\source\repos\Casillero\Prueba2\obj\Debug\Casillero.pdb

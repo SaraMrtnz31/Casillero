@@ -1,0 +1,16 @@
+C:\Users\trued\source\repos\Prueba2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\trued\source\repos\Prueba2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\trued\source\repos\Prueba2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\trued\source\repos\Prueba2\Prueba2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.AssemblyReference.cache
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.Properties.Resources.resources
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.GenerateResource.cache
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CopyComplete
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.Casillero.resources
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.frmPaquetes.resources
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.frmCategorias.resources
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.frmEstantes.resources
+C:\Users\trued\source\repos\Prueba2\Prueba2\obj\Debug\Prueba2.frmUsuarios.resources
